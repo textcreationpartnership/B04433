@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The murtherer justly condemned, or, An account of George Feast, a butcher of Shoreditch, being found guilty ... for the barbarous bloody murther of his wife ... also some account of his penitent behaviour in Newgate. To the tune of, Packingtons pound.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04433</idno>
+            <idno type="STC">Wing M3095B</idno>
+            <idno type="STC">ESTC R180795</idno>
+            <idno type="EEBO-CITATION">47012539</idno>
+            <idno type="OCLC">ocm 47012539</idno>
+            <idno type="VID">174509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174509)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The murtherer justly condemned, or, An account of George Feast, a butcher of Shoreditch, being found guilty ... for the barbarous bloody murther of his wife ... also some account of his penitent behaviour in Newgate. To the tune of, Packingtons pound.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Foster ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>"With allowance."</note>
+                  <note>Imperfect: faded with some loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Feast, George.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174509:1"/>
+            <!-- PDF PAGE 21 -->
+            <head>THE Murtherer Juſtly Condemned, OR, An Account of <hi>George Feaſt,</hi> a Butcher of <hi>Shoreditch,</hi> being found Guil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Seſſions Houſe in the <hi>Old Baily,</hi> for the Barbarous bloody Murther of his <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> her in the Belly, in <hi>L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aen-Hall</hi> Market, on the <hi>5th. of May,</hi> 1697. Of which Wound ſhe immediately Dyed, alſo ſome Account of his Penitent Behaviour in <hi>Newgate.</hi>
+            </head>
+            <opener>To the Tune of, <hi>Packingtons Pound.</hi>
+            </opener>
+            <p>With Allowance.</p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme liſten a while and a Story you'll hear,</l>
+               <l>That will ſtrike you with dead &amp; amazement &amp; fear</l>
+               <l>'Tis of a vile Butcher which with bloody Knife,</l>
+               <l>Without all compaſſion did murther his wife,</l>
+               <l>In <hi>Leaden-Hall</hi> Market, who came to reclaim,</l>
+               <l>Him from <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Debauchrys and life of ill fame:</l>
+               <l>
+                  <hi>Then let all be warn'd how they raſhly proceed,</hi>
+               </l>
+               <l>
+                  <hi>Leaſt trouble and anguiſh for them be decreed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He had been long abſent which made her ſuſpect,</l>
+               <l>Both her and his buſineſs he did much neglect,</l>
+               <l>Which put her in paſſion, that ſtreight way ſhe went,</l>
+               <l>To know by this uſuage what to her he meant,</l>
+               <l>In <hi>Leaden-Hall</hi> Market ſhe found him, and there</l>
+               <l>The cauſe of her grief ſhe did freely declare:</l>
+               <l>
+                  <hi>Then let all be warn'd how they raſhly proceed,</hi>
+               </l>
+               <l>
+                  <hi>Leſt trouble and anguiſh for them be decreed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though juſtly reproved, yet ſo Angry he grew,</l>
+               <l>That at her with violence his Knife he then threw;</l>
+               <l>But that little Harming, I Tremble to tell ye,</l>
+               <l>He took it and Struck it full Deep in her Belly,</l>
+               <l>At which ſhe Shrick'd and Cry'd out, Oh! I'am Dead:</l>
+               <l>But he ſought not to Fly, o're-come with the Dread:</l>
+               <l>
+                  <hi>Then let all be warn'd how they raſhly proceed,</hi>
+               </l>
+               <l>
+                  <hi>Leaſt trouble and anguiſh for them be decreed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Being ſeiz'd for this Crime he's Committed to Goal,</l>
+               <l>As for Murder we know <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dmits of no Bail;</l>
+               <l>And coming to Tryal, <hi>Not Guilty</hi> did plead,</l>
+               <l>But plain<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 'twas prov'd that he did the ſad deed,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> could not deny that he gave her the Wound,</l>
+               <l>And therefore of <hi>Murder he Guilty was found:</hi>
+               </l>
+               <l>
+                  <hi>Then let all be warn'd how they raſhly proceed,</hi>
+               </l>
+               <l>
+                  <hi>Leaſt trouble and anguiſh for them be decreed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This ſtartled him ſore, for though unconcern'd he,</l>
+               <l>Could kill his dear wife, yet now death he did ſee,</l>
+               <l>Was ſo near approaching him as his ſad doom,</l>
+               <l>He trembled for fear of the judgment to come:</l>
+               <l>To <hi>Newgate</hi> he then was in Irons convey'd,</l>
+               <l>Where piteous ſighs and laments he then made:</l>
+               <l>
+                  <hi>Then let all be warn'd how they raſhly proceed,</hi>
+               </l>
+               <l>
+                  <hi>leaſt trouble and anguiſh for them be decreed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He fancys her blood loud for vengeance doth cry,</l>
+               <l>Whom he caus'd on ſo ſlight an occaſion to dye;</l>
+               <l>Or that all pale her ſad Ghoſt does appear,</l>
+               <l>Which fills him with horrour, amazement, and fear,</l>
+               <l>Laments and ſad Groans now him company keep,</l>
+               <l>And Dreams affrighting diſorder his ſleep,</l>
+               <l>
+                  <hi>Then let all be warn'd,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Blood guiltineſs heavy now on him doth lye,</l>
+               <l>And makes him to ſigh, and to ſob, and to cry,</l>
+               <l>O that his dear wife he had never thus us'd,</l>
+               <l>Whom often, tis plain, he before had abus'd,</l>
+               <l>Becauſe ſhe would tell of his wicked life,</l>
+               <l>And give him good Counſel like a loving wife:</l>
+               <l>
+                  <hi>Then let all be warn'd,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>His Drunken Debauchries now ſwarm in his mind,</l>
+               <l>And how he to her and himſelf was unkind,</l>
+               <l>By ſpending his money ſo idley on thoſe,</l>
+               <l>That Lewdly had brought him to trouble and woes,</l>
+               <l>And though for Repentance it is not too late,</l>
+               <l>Yet death now looks terrible on lifes ſhort date,</l>
+               <l>
+                  <hi>Then let all be warn'd,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And Conſcience crys loudly ſtill urging the guilt,</l>
+               <l>Of the Innocent blood that he cauſeleſſy ſpilt,</l>
+               <l>He owns his Raſh folly and grieves for to find,</l>
+               <l>Himſelf could be cruel to her that was kind,</l>
+               <l>But no ſparring mercy in reaſon can crave</l>
+               <l>Who with bloody Knife ſent his Wife to her Grave,</l>
+               <l>
+                  <hi>Then let all be warn'd,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Thus let all Raſh men well conſider his fall,</l>
+               <l>Now innocence loudly for Vengeance do's call,</l>
+               <l>And govern their paſſions that bring them to ſhame,</l>
+               <l>For which when too late they themſelves do much blan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Conſider how Raſhneſs brings troubles <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d fears,</l>
+               <l>Shame, Ruin, and death, it oft for them prepares,</l>
+               <l>
+                  <hi>Then let all be warn'd how they raſhly proceed,</hi>
+               </l>
+               <l>
+                  <hi>Leaſt trouble and anguiſh for them be decreed.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> Iohn Foſter, <hi>at the Grey-Hound, near the Noah's Ark Tavern, over-againſt</hi> Vine-ſtreet. <hi>St.</hi> Giles's <hi>in the Fields.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
